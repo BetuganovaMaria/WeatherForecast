@@ -1,0 +1,10 @@
+{
+  "cities": [
+    "Sochi",
+    "Moscow"
+  ],
+  "frequency": 5,
+  "days": 3,
+  "api_key": "SECRET-KEY"
+}
+  
