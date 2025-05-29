@@ -1,7 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13751252&assignment_repo_type=AssignmentRepo)
-# Лабораторная работа 7
-
-Прогноз погоды. Внешние библиотеки.
+# Weather Forecast API
 
 ## Задача
 
@@ -27,12 +24,3 @@
 В качестве образца для визуализации предлагается взять следующий:
 
 ![image](interface.png) Скриншот взят с  https://wttr.in
-
-## Реализация
-
-В данной лабораторной работе вам не запрещено использовать другие библиотеки.
-
-В качестве библиотеки для [HTTP-запросов](https://en.wikipedia.org/wiki/HTTP) требуется воспользоваться [C++ Requests](https://github.com/libcpr/cpr)
-
-
-В данной работе, при взаимодействии с внешними сервисами, может возникать достаточно большое количество коллизий и краевых случаев. Внимательно, подумайте об этом! Ваша программа должна корректно работать и "не падать"
